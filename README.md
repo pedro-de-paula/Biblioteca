@@ -32,16 +32,16 @@ O projeto está organizado dentro do pacote `Biblioteca`, contendo as seguintes 
 ```bash
 git clone https://github.com/pedro-de-paula/Biblioteca.git
 
-### 📁 Acesse a pasta do projeto:
+ 📁 Acesse a pasta do projeto:
 cd Biblioteca
 
-### 🪛  Compile os arquivos:
+🪛 Compile os arquivos:
 javac src/Biblioteca/*.java
 
-### ▶️ Executando via terminal:
+ ▶️ Executando via terminal:
 java -cp src Biblioteca.Main
 
-###💻 Exemplo de uso:
+💻 Exemplo de uso:
 Gêneros disponíveis:
 0 - Romance
 1 - Ficção
@@ -64,11 +64,11 @@ Livros no carrinho:
 - A Revolução Dos Bichos - George Orwell - R$20.66 (Ficção)
 Total: R$20.66
 
-###🛠️ Tecnologias utilizadas
+🛠️ Tecnologias utilizadas
 Java puro
 Programação orientada a objetos (POO)
 Entrada e saída via Scanner no terminal
 
-###👨‍💻 Autor
+👨‍💻 Autor
 Desenvolvido por Pedro de Paula
 Veja mais em: https://github.com/pedro-de-paula
